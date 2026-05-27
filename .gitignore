@@ -1,0 +1,18 @@
+# Data files
+*.xlsx
+*.json
+diagnose_cache.json
+diagnose_report.json
+cache_meta.json
+history.csv
+unknown_authors.csv
+baidu_employees.csv
+contributors.csv
+*.png
+
+# Playwright
+.playwright-cli/
+
+# OS
+.DS_Store
+__pycache__/

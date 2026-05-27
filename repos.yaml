@@ -1,0 +1,33 @@
+# PaddlePaddle PR 统计 — 仓库与分类配置
+# 增删仓库只需编辑 repos 列表
+
+org: PaddlePaddle
+
+repos:
+  - Paddle
+  - docs
+  - PaddleScience
+  - PaddleMIX
+  - Paddle2ONNX
+  - PaddleOCR
+  - PaddleSpeech
+  - PaddleNLP
+  - FastDeploy
+  - GraphNet
+  - PaddleCustomDevice
+  - PaddleFormers
+  - PaddleX
+  - PaddleSOT
+  - PaConvert
+
+categories:
+  - 社区
+  - 硬件
+  - 部门内
+  - 部门外
+  - 非硬件生态相关
+  - AI Coding
+
+contributors: contributors.csv
+# 年度累积文件（每周追加，按年份自动命名）
+annual_file: 社区开发者pr统计（{year}）.xlsx
