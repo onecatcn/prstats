@@ -129,9 +129,9 @@ python -m pr_tool weekly --dry-run   # 仅预览
 
 ```csv
 github_id,category
-heavyrain-lzy,社区
-zhangbo9674,部门内
-TNT-LLL,硬件
+alice-dev,社区
+bob-baidu,部门内
+carol-hw,硬件
 ```
 
 6 个分类：`社区` / `部门内` / `部门外` / `硬件` / `非硬件生态相关` / `AI Coding`
